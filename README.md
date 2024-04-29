@@ -2,7 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=martiniucanastasia&color=green)
 
-3 years of experience in building software.
 <br/>
 Current stack is JavaScript, TypeScript, Next, React, Vue, GraphQL, AWS Cloud, Azure DevOps and much more.
 <br/>
