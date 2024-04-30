@@ -7,11 +7,8 @@
 
 I am eager to collaborate, exchange knowledge and work on amazing projects together with amazing people!
 
-<br />
-<br />
-
 [AWS Cloud Practitioner](https://www.credly.com/badges/51ca1197-2374-4379-aee5-ea9356176354) /
-[Graph Developer - Associate](https://www.apollographql.com/tutorials/certifications/3b9c0770-1887-4432-b687-42ce60ec066e) /
+[Graph Developer](https://www.apollographql.com/tutorials/certifications/3b9c0770-1887-4432-b687-42ce60ec066e) /
 [API Security Fundamentals](https://www.credly.com/badges/60189fce-3d28-4e5e-8bca-a0ea816f6a8e/public_url) 
 <br />
 <br />
