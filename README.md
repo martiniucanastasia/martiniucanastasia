@@ -1,7 +1,5 @@
-## Hello 👋
-
 <br />
-📦 HTML | CSS | TypeScript | React | Vue | NextJS | NodeJS | Git | AWS Cloud
+📦 TypeScript | React | Vue | NextJS | NodeJS
 <br />
 <br />
 
